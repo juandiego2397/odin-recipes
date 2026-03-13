@@ -1,5 +1,7 @@
 # odin-recipes
-##Primer Proyecto de recetas 
+
+Primer Proyecto de recetas 
+
 Este es el primer proyecto realizado con el curso "The Odin Proyect", donde me encuentro realizando una pagina web que contiene recetas, donde se pudieron utilizar varios conceptos aprendidos en HTML. Los conceptos utilizados mas comunes fueron:
 
 1. configuración del Git y Guthub para poder realizar el proyecto desde mi ordenador y luego por medio de comandos poder subir el proyecto de forma remota.
